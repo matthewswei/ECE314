@@ -1,10 +1,12 @@
-UIUC ECE 314
+#UIUC ECE 314
 
 Probability in Engineering Lab offered by UIUC. Uses Python with numpy,scipy, and matplotlib packages.
 
 This repository is created solely for academic use and reference. Any kind of plagiarism is strictly prohibited and does not affliate with this repository.
 
-Final Grade:
+##Final Grade:
+
+##Lab Grades:
 
 	Lab 1: 90/100
 	Lab 2: 90/100
