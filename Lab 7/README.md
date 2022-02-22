@@ -1,5 +1,5 @@
-#Lab 7
+# Lab 7
 
-##Grade:
+## Grade:
 
 Comments: 
