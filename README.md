@@ -8,10 +8,10 @@ This repository is created solely for academic use and reference. Any kind of pl
 
 ## Lab Grades:
 
-	Lab 1: 90/100
-	Lab 2: 90/100
+	Lab 1:  90/100
+	Lab 2:  90/100
 	Lab 3:
-	Lab 4:
+	Lab 4: 100/100
 	Lab 5:
 	Lab 6:
 	Lab 7:
