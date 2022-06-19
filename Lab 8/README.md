@@ -1,5 +1,5 @@
 # Lab 8
 
-## Grade:
+## Grade:  95/100
 
-Comments: 
+Comments: Problem 1.2 (-5 pts) No output, but code makes sense.

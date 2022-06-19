@@ -1,5 +1,5 @@
 # Lab 7
 
-## Grade:
+## Grade: 80/100
 
-Comments: 
+Comments: 2) (-20pts) No txt file in submission

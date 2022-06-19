@@ -1,5 +1,5 @@
 # Lab 6
 
-## Grade:
+## Grade: 100/100
 
-Comments: 
+Comments: None
